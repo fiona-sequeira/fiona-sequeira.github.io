@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fiona Sequeira / Site Title"
+title                    : "Fiona Sequeira"
 title_separator          : "-"
 name                     : &name "Fiona Sequeira"
 description              : &description "personal description"
